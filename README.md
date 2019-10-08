@@ -1,6 +1,6 @@
-# RailsConf 2019 Stimulus and Webpacker Workshop
+# Samvera Connect 2019 Stimulus and Webpacker Workshop
 
-This code base is for use during the [2019 RailsConf Stimulus workshop](https://railsconf.com/program/workshops#session-781)
+This code base is for use during the 2018 Samvera Connect Stimulus workshop.
 
 In order to run this application, you need SQLite on your
 machine. The application comes with a pre-seeded SQLite database.
