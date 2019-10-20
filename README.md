@@ -12,11 +12,12 @@ version of Ruby 2.5 and up (which is the prerequisite for Rails 6.0).
 In order to get set up, you should do the following
 
 1. Clone and download this repository
-2. In the directory for this repo, make sure you are running Rails 2.5 or up
-3. run `bundle install`
-4. run `yarn`
-5. go to http://localhost:3000
-6. You should see a webpage that looks like a schedule
+1. In the directory for this repo, make sure you are running Rails 2.5 or up
+1. run `bundle install`
+1. run `yarn`
+1. run `./bin/rails server`
+1. go to http://localhost:3000
+1. You should see a webpage that looks like a schedule
 
 
 There is also a Docker setup. Please note that Noel will be much less
