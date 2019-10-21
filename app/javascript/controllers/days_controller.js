@@ -13,4 +13,8 @@ export default class extends Controller {
       }
     })
   }
+
+  showAll(evt)  {
+    this.scheduleTargets.forEach((item) => item.classList.remove('isHidden'))
+  }
 }
